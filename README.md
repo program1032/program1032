@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @program1032
+- 👋 Hi, I’m @CP1032
 - 👀 I’m interested in learning how to program in Python, SQL, Databases and basically, Cloud Data Platforms.
 - 🌱 I’m currently learning Python, SQL and NoSQL
 - 💞️ I’m looking to collaborate on basic projects of databases and analysis of information
