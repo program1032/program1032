@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @program1032
-- 👀 I’m interested in learning how to program in Pyhton, SQL and Databases
-- 🌱 I’m currently learning Pyhton, Flask and NoSQL
+- 👀 I’m interested in learning how to program in Python, SQL, Databases and basically, Cloud Data Platforms.
+- 🌱 I’m currently learning Python, SQL and NoSQL
 - 💞️ I’m looking to collaborate on basic projects of databases and analysis of information
 - 📫 How to reach me> By chat
 
